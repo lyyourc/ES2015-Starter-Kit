@@ -1,1 +1,1 @@
-export const msg = 'Hello webpack';
+export const msg = 'Hello webpack'

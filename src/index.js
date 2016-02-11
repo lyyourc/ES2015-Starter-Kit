@@ -1,5 +1,5 @@
-import './app.css';
+import './app.css'
 
-import {msg} from './component';
+import {msg} from './component'
 
-document.write(msg);
+document.write(msg)
