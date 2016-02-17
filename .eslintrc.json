@@ -6,10 +6,12 @@
     ],
 
     "globals": {
+      "jasmine": true,
       "document": true
     },
 
     "rules": {
+      "arrow-parens": [0],
       "curly": [0]
     }
 }

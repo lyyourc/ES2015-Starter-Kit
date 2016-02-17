@@ -1,4 +1,4 @@
-# ES2015 Starter Kit
+# ES2015 Starter Kit [![Build Status](https://travis-ci.org/DrakeLeung/ES2015-Starter-Kit.svg?branch=test)](https://travis-ci.org/DrakeLeung/ES2015-Starter-Kit)
 If you just wanna write some SIMPLE ES2015 codes in the browser, TAKE IT~
 
 ## Usage
